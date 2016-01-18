@@ -1,0 +1,13 @@
+c:\Projects\WordCount\WordCountTest\bin\Debug\WordCountTest.dll
+c:\Projects\WordCount\WordCountTest\bin\Debug\WordCountTest.pdb
+c:\Projects\WordCount\WordCountTest\bin\Debug\nunit.core.dll
+c:\Projects\WordCount\WordCountTest\bin\Debug\nunit.core.interfaces.dll
+c:\Projects\WordCount\WordCountTest\bin\Debug\nunit.framework.dll
+c:\Projects\WordCount\WordCountTest\bin\Debug\nunit.util.dll
+c:\Projects\WordCount\WordCountTest\bin\Debug\NUnit.VisualStudio.TestAdapter.dll
+c:\Projects\WordCount\WordCountTest\bin\Debug\WordCount.exe
+c:\Projects\WordCount\WordCountTest\bin\Debug\WordCount.pdb
+c:\Projects\WordCount\WordCountTest\bin\Debug\nunit.framework.xml
+c:\Projects\WordCount\WordCountTest\obj\Debug\WordCountTest.csprojResolveAssemblyReference.cache
+c:\Projects\WordCount\WordCountTest\obj\Debug\WordCountTest.dll
+c:\Projects\WordCount\WordCountTest\obj\Debug\WordCountTest.pdb
